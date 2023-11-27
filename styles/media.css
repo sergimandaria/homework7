@@ -1,0 +1,272 @@
+@media all and (min-width:744px) {
+    .button {
+        width: 100px;
+        height: 48px;
+    }
+
+    .none {
+        display: block;
+    }
+
+    .navbar {
+        display: block;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .title {
+        max-width: 696px;
+    }
+
+    .text {
+        max-width: 696px;
+    }
+
+    .text-1 {
+        max-width: 370px;
+    }
+
+    .parent {
+        height: 414px;
+        background-color: rgba(243, 243, 243, 1);
+
+    }
+
+    .same {
+        max-width: 744px;
+    }
+
+    .section-2 {
+        height: 914px;
+        display: flex;
+        flex-direction: column;
+        gap: 29px;
+    }
+
+    .main-h {
+        max-width: 696px;
+        font-size: 2.4rem;
+    }
+
+    .main-s {
+        max-width: 696px;
+        font-size: 1.6rem;
+    }
+
+
+    .cover {
+        height: 588px;
+        background-image: url(/assets/pictures/lastmd.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+
+    .footer {
+        height: 340px;
+        background-color: rgba(0, 0, 0, 1);
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        justify-content: space-around;
+        align-items: flex-start;
+    }
+
+    .parent-1 {
+        display: flex;
+        gap: 60px;
+    }
+
+
+}
+
+@media all and (min-width:1024px) {
+    .navbar-2 {
+        display: flex;
+        gap: 44px;
+    }
+
+    .parag {
+        max-width: 630px;
+    }
+
+    .title {
+
+        font-size: 56px;
+    }
+
+    .connect {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 24px;
+        margin-top: 20px;
+    }
+
+    .section {
+        margin-top: 44px;
+    }
+
+    .parent {
+        height: 254px;
+        background-color: rgba(243, 243, 243, 1);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        gap: 44px;
+    }
+
+    .same {
+        max-width: 290px;
+        text-align: start;
+    }
+
+    .child {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 16px;
+    }
+
+    .restart {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: start;
+        gap: 14px;
+        text-align: center;
+    }
+
+    .section-2 {
+        height: 895px;
+        background-color: rgba(0, 0, 0, 1);
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        gap: 14px;
+        text-align: center;
+        justify-content: space-around;
+    }
+
+    .main-h {
+        max-width: 415px;
+        text-align: start;
+    }
+
+    .main-s {
+        max-width: 415px;
+        text-align: start;
+    }
+
+    .main-p {
+        text-align: start;
+    }
+
+    .res {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 129px;
+    }
+
+    .cover {
+        height: 588px;
+        background-image: url(/assets/pictures/lastbig.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+
+    .footer {
+        height: 309px;
+    }
+
+    .parent-1 {
+        display: flex;
+        gap: 100px;
+    }
+
+}
+
+@media all and (min-width:1440px) {
+    .navbar-2 {
+        display: flex;
+        gap: 24px;
+    }
+
+    .parag {
+        max-width: 490px;
+    }
+
+    .section {
+        margin-top: 64px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .same {
+        max-width: 360px;
+    }
+
+    .section-2 {
+        height: 620px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 133px;
+
+    }
+
+    .main-h {
+        max-width: 415px;
+        text-align: start;
+    }
+
+
+    .restart {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 14px;
+        text-align: start;
+    }
+
+    .res {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+
+    }
+
+    .cover {
+        height: 564px;
+        background-image: url(/assets/pictures/lastlg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+
+    .footer {
+        height: 336px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .sub {
+        display: block;
+    }
+}
