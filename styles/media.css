@@ -58,10 +58,6 @@
 
     .cover {
         height: 588px;
-        background-image: url(/assets/pictures/lastmd.png);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
 
     }
 
@@ -178,10 +174,6 @@
 
     .cover {
         height: 588px;
-        background-image: url(/assets/pictures/lastbig.png);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
 
     }
 
@@ -251,11 +243,6 @@
 
     .cover {
         height: 564px;
-        background-image: url(/assets/pictures/lastlg.png);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-
     }
 
     .footer {

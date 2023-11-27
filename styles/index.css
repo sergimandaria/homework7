@@ -182,13 +182,13 @@
     font-size: 1.4rem;
     color: rgba(255, 255, 255, 1);
 }
-
+.pictures{
+    display: flex;
+    justify-content: center;
+}
 .cover {
     height: 500px;
-    background-image: url(/assets/pictures/lastsm.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color:rgba(243, 243, 243, 1) ;
 
 }
 
